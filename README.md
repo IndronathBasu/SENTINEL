@@ -55,8 +55,8 @@ email-spam-classifier/
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd email-spam-classifier
+git clone https://github.com/IndronathBasu/Spam-Email-Classifier.git
+cd spam-email-classifier
 ```
 
 2. Install dependencies:
