@@ -1,4 +1,4 @@
-# 📧 Email Spam Classifier (Python + scikit-learn)
+# 📧 SENTINEL: Email Spam Classifier (Python + scikit-learn)
 
 ## Overview
 This project is a **Machine Learning-based Email Spam Classifier** using Python and scikit-learn.  
